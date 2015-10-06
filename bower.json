@@ -1,0 +1,20 @@
+{
+  "name": "ryanfeliciano.github.io",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ryanfeliciano/ryanfeliciano.github.io",
+  "authors": [
+    "Ryan Balfanz <ryan@ryanbalfanz.net>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
